@@ -1,0 +1,9 @@
+Trebalo bi dovršiti rupe kao ulaze u veliku, glavnu kutiju znaci ulazi(napajanje prekidac i reset booton) izlazi (u ttp connectora) na drugoj strani
+Napraviti rupe na kucistu za hladnjak...
+napraviti plocicukoja ce se umetniti na arduino. 
+
+
+Mala kutija mora imati rupe za ledice koje su na fiksnoj plocici s otpornicima, znaci na plocici su samo izlazi koji se zicano spajaju s UTP connectorom. i jos treba uglaviti rc5222 citac direktno na connector...
+
+
+Hint: spajat connector direktno s jedne strane na drugu nevodit racuna o bojama zica..... ;) <3 
